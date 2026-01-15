@@ -22,7 +22,18 @@ accessible, and well-structured web page.
 
 ---
 
-## Preview
-![Profile Page](screenshot.png)
+## 📸 Preview
 
+![Profile Page](semantic-profile/Screenshot-semantic-profile.png)
 
+---
+## ♿ Accessibility & SEO
+- Proper use of heading hierarchy (`h1` to `h3`)
+- Meaningful semantic tags for better screen reader support
+- Alt text for images
+- Improved SEO through structured content
+
+---
+## 📝 Conclusion
+This task helped in understanding the importance of semantic HTML, accessibility,
+and clean code structure which are essential for real-world web development projects.
