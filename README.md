@@ -16,7 +16,7 @@ The main goal of this project is to understand and implement proper HTML structu
 ## Screenshots
 
 ### Profile Page Preview
-![Profile Page Screenshot](./semantic-profile/Screenshot-semantic-profile)
+![Profile Page Screenshot](./semantic-profile/Screenshot-semantic-profile.png)
 
 > 📌 Make sure the image path is correct relative to the README file.
 
